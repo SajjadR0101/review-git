@@ -2,6 +2,12 @@
 
 header {}
 
+.intro-box {
+    width: 100%;
+    height: 20rem;
+    background-color: #fff;
+}
+
 main {}
 
 footer {}
